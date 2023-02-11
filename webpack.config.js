@@ -54,8 +54,5 @@ module.exports = {
       logging: "warn",
     },
     historyApiFallback: true,
-    proxy: {
-      "/": "http://localhost:8080",
-    },
   },
 };
