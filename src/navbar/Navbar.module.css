@@ -1,0 +1,20 @@
+.navbar {
+  width: 100%;
+  height: 4rem;
+  background-color: white;
+  border-bottom: 1px solid #d4d4db;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbarHeading {
+  margin-right: 3rem;
+}
+
+.buttonIcon {
+  width: 1.5rem;
+  height: 1.5rem;
+  color: #000;
+}
